@@ -29,8 +29,9 @@ Beyond the fun of the holiday theme, I use these challenges to:
 
 | Year | Language | Stars | Status |
 | :--- | :--- | :--- | :--- |
-| **2024** | Python | ⭐️ 0/50 | In Progress |
-| **2025** | Python | ⭐️ 0/50 | Upcoming |
+| **2015** | Python/R | ⭐️ 18/50 | In Progress |
+| **2023** | Python/R | ⭐️ 22/50 | In Progress |
+| **2025** | Python | ⭐️ 6/50 | In Progress |
 
 ---
 *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
